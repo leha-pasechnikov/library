@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+geometry.__pycache__/
+geometry.src.__pycache__/
+geometry.test.__pycache__/
